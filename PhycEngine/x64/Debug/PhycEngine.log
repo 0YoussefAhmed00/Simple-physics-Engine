@@ -1,5 +1,10 @@
-﻿  Particle.cpp
+﻿  AABBCollider.cpp
+  main.cpp
+  Particle.cpp
+  PhysicsWorld.cpp
   Renderer.cpp
+  SATCollider.cpp
   Vector2d.cpp
   Generating Code...
-  PhycEngine.vcxproj -> D:\ItiProblemsolving\SFML1\x64\Debug\PhycEngine.exe
+  LINK : D:\ItiProblemsolving\testgit\Simple-physics-Engine\x64\Debug\PhycEngine.exe not found or not built by the last incremental link; performing full link
+  PhycEngine.vcxproj -> D:\ItiProblemsolving\testgit\Simple-physics-Engine\x64\Debug\PhycEngine.exe

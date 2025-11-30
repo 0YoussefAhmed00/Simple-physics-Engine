@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\ItiProblemsolving\SFML1\x64\Debug\PhycEngine.exe</FullPath>
+      <FullPath>D:\ItiProblemsolving\testgit\Simple-physics-Engine\x64\Debug\PhycEngine.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
